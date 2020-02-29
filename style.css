@@ -1,0 +1,49 @@
+/* html, body, #map {
+    height: 400px;
+    padding: 0;
+    margin: 0;
+  } */
+
+body {
+  margin: 30px; 
+  background-color: rgb(230,230,230);
+}
+
+#map {
+    height: 600px; 
+    border: 2px solid rgb(195,195,195); 
+    padding-left: 0px;
+    padding-right: 0px; 
+  }
+
+.my-widgets {
+  height: 200px; 
+  border: 2px solid rgb(195,195,195); 
+  background-color: white;
+}
+
+
+  /* .container {
+    width: 100%;
+} */
+
+
+  #temperature {
+      font-size: 60px;
+      text-align: center;
+      color: rgb(90,132,195);
+      
+  }
+
+
+/* 
+  .axis {
+	  font: 10px sans-serif;
+	}
+
+	.axis path,
+	.axis line {
+	  fill: none;
+	  stroke: #000;
+	  shape-rendering: crispEdges;
+	} */
